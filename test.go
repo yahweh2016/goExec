@@ -5,4 +5,5 @@ import "fmt"
 func main()  {
 	fmt.Println("你好啊")
 	fmt.Println("不好啊")
+	fmt.Println("真的吗？")
 }
